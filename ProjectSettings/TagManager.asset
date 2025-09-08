@@ -41,3 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: FG
+    uniqueID: 3581942079
+    locked: 0
+  - name: BackgroundParticles
+    uniqueID: 1112188909
+    locked: 0
